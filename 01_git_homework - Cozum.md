@@ -51,3 +51,13 @@ Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/berkarcan/bash_docker_practice.git
  * [new branch]      main -> main
 Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler (main)
+$ git add .
+
+berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler (main)
+$ git commit -m "01_git_homework - Cozum.md"
+
+berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler (main)
+$ git push -u origin main
+
