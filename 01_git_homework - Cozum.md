@@ -1,7 +1,7 @@
 # Soru-1:
 Bu haftaki ödevinizin cevabını git projesi kullanarak cevaplayınız. Ödev tamamlanana kadar en az 3 commit yapınız. Projenizi uzak repo olarak github'a entegre ediniz.
 
-1. On browser Create a github project  (for example **bash_docker_practice**)
+On browser I create a github project  :bash_docker_practice
 
 berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler
 $ git init
@@ -61,3 +61,11 @@ $ git commit -m "01_git_homework - Cozum.md"
 berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler (main)
 $ git push -u origin main
 
+berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler (main)
+$ git add .
+
+berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler (main)
+$ git commit -m "01_git_homework - Cozum.md firs changes"
+
+berka@LAPTOP-G7STU4QJ MINGW64 /d/ders_notları/6. Hafta/Ödevler/bash_docker_cozumler (main)
+$ git push -u origin main
